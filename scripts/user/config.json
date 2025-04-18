@@ -1,0 +1,6 @@
+{
+    "model_path": "model_data\\yolo11m\\detect\\train\\weights\\best.pt",
+    "confidence_threshold": 0.9,
+    "refresh_rate_ms": 100
+  }
+  

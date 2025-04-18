@@ -1,0 +1,9 @@
+/data
+/runs
+temp.txt
+venv
+__pycache__
+*.pyc
+*.pyo
+*.bak
+tests
